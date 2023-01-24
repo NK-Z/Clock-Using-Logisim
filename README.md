@@ -9,9 +9,9 @@ follow this steps to open this project and try it yourself!
 
 3- logisim will say there is something missing so press OK
 
-4- the the select window will open to explor your files so go select Libary.circ 
+4- then the select window will open to explor your files so go select Libary.circ 
 
-sometime logisim will repeat the same massage as in 2 it's fine do step No 3 again 
+sometime logisim will repeat the same massage as in step 3 it's fine do step No 4 again 
 
 And now you can try it Enjoy!
 
